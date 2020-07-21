@@ -20,11 +20,9 @@ public class Main {
         else
             System.out.println("Коробки не равны");
 
-
         System.out.println("____________");
 
         emptyOrangeBox.addFruit(new Orange());
-
 
         // exercise f
         System.out.println("Вес emptyOrangeBox до " + emptyOrangeBox.getWeight());

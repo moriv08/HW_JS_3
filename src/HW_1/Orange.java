@@ -22,4 +22,5 @@ public class Orange extends Number{
     public double doubleValue() {
         return 1.5;
     }
+
 }
