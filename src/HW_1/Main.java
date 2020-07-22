@@ -22,11 +22,7 @@ public class Main {
 
         printList(list);
         printList(stringList);
-
-
-
-
-
+        
         // exercise a
         Box<Apple> appleBox = new Box<>(new Apple(), new Apple(), new Apple(), new Apple(), new Apple(), new Apple());
         Box<Orange> orangeBox = new Box<>(new Orange(), new Orange(), new Orange(), new Orange());
