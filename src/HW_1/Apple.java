@@ -22,4 +22,5 @@ public class Apple extends Number{
     public double doubleValue() {
         return 1.0;
     }
+
 }
